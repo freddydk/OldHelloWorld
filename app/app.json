@@ -1,35 +1,33 @@
 {
-    "id":  "00000000-0000-0000-0000-000000000001",
-    "name":  "Default App Name",
-    "publisher":  "Default Publisher",
-    "brief":  "",
-    "description":  "",
-    "version":  "2.0.0.0",
-    "privacyStatement":  "",
-    "EULA":  "",
-    "help":  "",
-    "url":  "",
-    "logo":  "",
-    "dependencies":  [
-                         {
-                             "id":  "00000000-0000-0000-0000-000000000003",
-                             "publisher":  "Default Publisher",
-                             "name":  "Default Base App Name",
-                             "version":  "2.0.0.0"
-                         }
-                     ],
-    "screenshots":  [
-
-                    ],
-    "application":  "17.0.0.0",
-    "platform":  "17.0.0.0",
-    "idRanges":  [
-                     {
-                         "from":  50100,
-                         "to":  50149
-                     }
-                 ],
-    "showMyCode":  true,
-    "runtime":  "6.0",
-    "applicationInsightsKey": "00000000-0000-0000-0000-000000000000"
+  "id": "4f2fb4e2-99b5-4a12-adcc-23e478731c03",
+  "name": "My App",
+  "publisher": "My Name",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "6cdbd613-1d75-46b1-94d9-d7d8cf9366c0",
+      "publisher": "My Name",
+      "name": "My Base App",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "application": "17.0.0.0",
+  "platform": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 80100,
+      "to": 80149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "6.0",
+  "applicationInsightsKey": "00000000-0000-0000-0000-000000000000"
 }

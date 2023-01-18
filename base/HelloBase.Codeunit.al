@@ -1,4 +1,4 @@
-codeunit 50130 HelloBase
+codeunit 80130 HelloBase
 {
     trigger OnRun()
     begin
