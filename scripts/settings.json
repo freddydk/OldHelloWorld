@@ -3,7 +3,6 @@
   "memoryLimit": "6G",
   "installApps": "",
   "installTestApps": "",
-  "previousApps": "https://businesscentralapps.blob.core.windows.net/githubhelloworld/latest/apps.zip",
   "appFolders": "app,base",
   "testFolders": "test",
   "installTestRunner": true,
@@ -15,7 +14,6 @@
   "enableAppSourceCop": false,
   "enablePerTenantExtensionCop": true,
   "enableUICop": true,
-  "bcContainerHelperVersion": "dev",
   "additionalCountries": "",
   "vaultNameForLocal": "BuildVariables",
   "versions": [
